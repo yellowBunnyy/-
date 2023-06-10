@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "data-analisis-covid"
+version = "0.1.0"
+description = ""
+authors = ["yellowBunny <zigggin3@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_analisis_covid"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.2"
+numpy = "^1.24.3"
+matplotlib = "^3.7.1"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+tabula-py = "^2.7.0"
+plotly = "^5.15.0"
+nbformat = "^5.9.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.23.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
