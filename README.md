@@ -41,7 +41,7 @@ I.3. Plots.
 ## II. Conclusions. <a name="conclusions"></a>
 After analisist we see COVD is more agresive than Flu. More people have been critically infected with the COVID virus, resulting in the deaths of those infected.
 
-<!-- ![Alt Text](https://github.com/yellowBunnyy/key_gen/blob/master/p.png) -->
+![Alt Text](https://github.com/yellowBunnyy/-/blob/master/padas_statistic.png)
 
 
 ## III. Used technologies and libraries <a name="technologies"></a>
